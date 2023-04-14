@@ -1,19 +1,3 @@
-﻿![PythonVersion](https://img.shields.io/badge/python-3.6%20|3.7%20|%203.8%20|%203.9-success)
-[![License https://github.com/solegalli/feature-selection-for-machine-learning/blob/master/LICENSE](https://img.shields.io/badge/license-BSD-success.svg)](https://github.com/solegalli/feature-selection-for-machine-learning/blob/master/LICENSE)
-[![Sponsorship https://www.trainindata.com/](https://img.shields.io/badge/Powered%20By-TrainInData-orange.svg)](https://www.trainindata.com/)
-
-## Feature Selection for Machine Learning - Code Repository
-
-Published February, 2018
-
-Actively maintained.
-
-[<img src="./feature_selection.png" width="248">](https://www.courses.trainindata.com/p/feature-selection-for-machine-learning)
-
-## Links
-
-- [Online Course](https://www.courses.trainindata.com/p/feature-selection-for-machine-learning)
-
 
 ## Table of Contents
 
